@@ -1,6 +1,6 @@
 # Simple Deep Research AI Agent with LangGraph
 
-A simple deep research AI agent built using LangGraph for orchestrating research workflows.
+A simple deep research AI agent built using LangGraph for orchestrating research workflows. This project serves as a learning exercise to understand how to build AI agents using LangGraph.
 
 ## Installation
 
